@@ -58,7 +58,7 @@ medical-chat-assistant-fixed/
 ### 安装依赖
 
 ```bash
-cd medical-chat-assistant-fixed
+cd medical-chat-assistant-ui
 npm install
 ```
 
